@@ -8,6 +8,7 @@ This project demonstrates how to fetch a specific character using a GraphQL quer
 https://rickandmortyapi.com/graphql
 
 
+
 ### Queries
 We used the `character(id: ID!)` query with IDs **1, 2, 3, and 4**.
 
